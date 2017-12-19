@@ -1,0 +1,3 @@
+﻿  SystemSolver.cpp
+c:\users\андрей\documents\visual studio 2017\projects\systemsolver\systemsolver\systemsolver.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SystemSolver.vcxproj -> C:\Users\Андрей\Documents\Visual Studio 2017\Projects\SystemSolver\Debug\SystemSolver.exe
